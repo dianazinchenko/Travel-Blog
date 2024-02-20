@@ -1,6 +1,9 @@
 # My first ever website
 
-<img src="images/countries-page.png" alt="Website Screenshot" width="600" height="400">
+<div style="display: flex;">
+    <img src="images/countries-page.png" alt="Website Screenshot 1" style="width: 50%;">
+    <img src="images/homepage.png" alt="Website Screenshot 2" style="width: 50%;">
+</div>
 
 I created this project back in 2022 as part of Harvard's Introduction to Computer Science Course. It's a small website where I documented some of my travels.
 
