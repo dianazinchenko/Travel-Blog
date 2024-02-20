@@ -1,4 +1,4 @@
-# My first ever website
+# My first ever website 💫
 
 <div style="display: inline-block;">
     <img src="images/homepage.png" alt="Website Screenshot 1" style="width: 49%;">
