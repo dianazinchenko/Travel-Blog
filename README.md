@@ -18,4 +18,5 @@ I created this project back in 2022 as part of Harvard's Introduction to Compute
 - Interactive flip card with highlights from each destination
 - Contact page (visual only; not functional)
 
-## Usage
+## Website Video Demo
+You can watch a video demo of my website [here](https://youtu.be/ysjZOrkyfPo)
